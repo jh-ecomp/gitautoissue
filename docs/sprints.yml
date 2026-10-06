@@ -1,0 +1,11 @@
+sprints:
+  1:
+    name: "Sprint 1 - Foundation & Core GitAutoIssue Engine"
+    start: "2026-10-06"
+    end: "2026-10-20"
+    goal: "Implement dynamic schema discovery, declarative documentation parser, and run the first self-hosted sync."
+  2:
+    name: "Sprint 2 - Advanced DX, Testing & Community Release"
+    start: "2026-10-21"
+    end: "2026-11-04"
+    goal: "Add interactive mode, strict schema validation, and polish release documentation."

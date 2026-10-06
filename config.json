@@ -1,0 +1,20 @@
+{
+  "repository": "jh-ecomp/gitautoissue",
+  "projectNumber": 1,
+  "projectOwner": "jh-ecomp",
+  "defaultMilestone": "v1.0.0 - MVP",
+  "docsDir": "./docs/user-stories",
+  "sprintsFile": "./docs/sprints.yml",
+  "labels": {
+    "epic": "Epic",
+    "story": "User Story"
+  },
+  "fieldMappings": {
+    "status": "Status",
+    "priority": "Priority",
+    "size": "Size",
+    "estimate": "Estimate",
+    "startDate": "Start date",
+    "targetDate": "Target date"
+  }
+}
